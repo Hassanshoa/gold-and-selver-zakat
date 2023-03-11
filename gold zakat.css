@@ -1,0 +1,49 @@
+  div{
+	display: grid;
+	place-items: center;
+	font-style: oblique;
+	font-size: 35px;
+	width: 80%;
+	background-color: seashell;
+	height: 97vh;
+	border-radius: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
+
+  }
+input{
+	text-align: center;
+	font-size: 25px;
+	border-radius: 40px;
+	border: solid black;
+}
+
+	
+		table {
+			margin-bottom: 200px;
+			border-collapse: collapse;
+			width: 100%;
+		}
+		th, td {
+			text-align: center;
+			padding: 8px;
+			border-bottom: 1px solid #ddd;
+		}
+		th {
+			color: black;
+			font-size: 40px;
+	
+		}
+             body{
+                /* background-image: url('images (1).jpg'); */
+                /* background-repeat: no-repeat; */
+                background-size: covers;
+                background-position: center;
+                background-color: yellow;
+                font-style: oblique;
+				display: grid;
+	place-items: center;
+             }
+             td{
+                font-size: 50px;
+             }
